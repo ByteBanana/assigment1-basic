@@ -1,4 +1,4 @@
-# Assignment1
+# Assignment1 - The basics
 This project is an assigment of "Angular - The Complete Guide (2020 Edition)" on Udemy
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
 
